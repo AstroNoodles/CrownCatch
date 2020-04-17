@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CrownCatch2</string>
+    <string name="intro">Intro</string>
+    <string name="map">Map</string>
+    <string name="points">Points</string>
+    <string name="news">News</string>
+    <string name="connect">Connect</string>
+    <string name="the_social_distance_map">The Social Distance Map</string>
+    <string name="select_home_address">Select Home Address</string>
+    <string name="insert_home_address_here">Insert home address here:</string>
+    <string name="the_app_to_social_distance">The App to Social Distance!</string>
+    <string name="welcome_to_crown_catch">Welcome to Crown Catch!</string>
+    <string name="what_to_do">What to do?</string>
+    <string name="view_map">View Map</string>
+    <string name="view_progress">View Progress</string>
+    <string name="view_news">View News</string>
+    <string name="set_up_bluetooth">Set up Bluetooth</string>
+    <string name="your_current_location_is">Your Current Location Is:</string>
+    <string name="miles_away_from_home">miles away from home</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="crown_catch_news">Crown Catch News</string>
+    <string name="rss_icon">RSS Icon</string>
+    <string name="sample_rss">AP</string>
+    <string name="_2_hours_ago">2 hours ago</string>
+    <string name="test_miles">Your distance from home will display here!</string>
+    <string name="channel_name">Crown Catch Notification Channel</string>
+    <string name="channel_desc">This is the channel for Crown Catch Notifications</string>
+    <string name="points_title">Points: %1$d</string>
+    <string name="how_do_i_get_more_points">
+        <u>How do I get more points?</u>
+    </string>
+    <string name="step_1">(1) Keep social distancing alive! \n Stay relatively close to your house!</string>
+    <string name="step_2">(2) Keep informed! \n Read the news and see how the situation is evolving! \n
+    </string>
+    <string name="step_4">(4) Use this app often to let you do Steps 1 and 2 and 3!</string>
+    <string name="step_3">(3) You will feel rewarded for your efforts.
+    </string>
+    <string name="credits_poster">Credits for the poster from OU Medicine: \n
+        https://www.covidoumedicine.com/protecting-your-health/social-distancing/
+    </string>
+    <string name="social_distancing_poster">Social Distancing Poster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
